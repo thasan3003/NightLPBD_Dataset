@@ -1,7 +1,7 @@
 # NightLPBD_Dataset
 ### NightLPBD is a dataset of Nighttime License Plates of Bangladeshi vehicles
 
-This repository serves as the **official** landing page, documentation hub, and version registry for the **NightLPBD** (Nighttime License Plates of Bangladeshi vehicles). 
+This repository on [GitHub](https://github.com/thasan3003/NightLPBD_Dataset) serves as the **official** landing page, documentation hub, and version registry for the **NightLPBD** (Nighttime License Plates of Bangladeshi vehicles). 
 
 The dataset versions are hosted externally on dedicated AI repositories to ensure stable, high-speed downloads and seamless integration with machine learning pipelines. No training code is hosted in this repository.
 
